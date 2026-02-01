@@ -1,0 +1,23 @@
+{
+  "name": "exzperts-api",
+  "version": "1.0.0",
+  "description": "Exzperts API - Multi-purpose Lambda functions for Tadabase integration",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"No test specified\""
+  },
+  "keywords": [
+    "tadabase",
+    "lambda",
+    "api",
+    "exzperts"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "dotenv": "^16.0.3",
+    "express": "^5.2.1"
+  }
+}
